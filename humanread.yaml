@@ -1,0 +1,58 @@
+version: 1
+title: 小桃的成語小院：畫蛇添足
+slug: novel-ffc97f0b-0aa517
+summary: 阿禾最先畫好了蛇，卻又想替牠添上腳。小桃的筆還在慢慢走，他的畫已經悄悄變了模樣。六幕動態繪本，談完成、想像，以及什麼時候該停筆。
+cover_color: '#458f87'
+cover_asset: assets/0704997e27666b911d371cba1c634351cf48f4bc05fd1cf57378bbe2b61e97dc.webp
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: zh-Hant
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation: null
+chapters:
+- id: 761
+  title: 今天，畫一條蛇
+  position: 1
+  file: chapters/0001-761.html
+  format: sandbox-html-css
+  share_card: null
+- id: 762
+  title: 先停下來的筆
+  position: 2
+  file: chapters/0002-762.html
+  format: sandbox-html-css
+  share_card: null
+- id: 763
+  title: 兩隻，再兩隻
+  position: 3
+  file: chapters/0003-763.html
+  format: sandbox-html-css
+  share_card: null
+- id: 764
+  title: 並排的兩張紙
+  position: 4
+  file: chapters/0004-764.html
+  format: sandbox-html-css
+  share_card: null
+- id: 765
+  title: 題目沒有叫牠跑
+  position: 5
+  file: chapters/0005-765.html
+  format: sandbox-html-css
+  share_card: null
+- id: 766
+  title: 這張，也留下來
+  position: 6
+  file: chapters/0006-766.html
+  format: sandbox-html-css
+  share_card: null
